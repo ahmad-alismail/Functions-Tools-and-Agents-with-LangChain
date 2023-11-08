@@ -1,6 +1,6 @@
 # Functions Tools and Agents with LangChain
 
-Jupyter notebooks cover key concepts and examples, and also include my personal notes and explanations on various topics presented in [Functions Tools and Agents with LangChain](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/). This course instructed by the creator of LangChain Harrison Chase as well as Dr.Andrew Ng.
+Jupyter notebooks cover key concepts and examples, and also include my personal notes and explanations on various topics presented in [Functions, Tools and Agents with LangChain](https://www.deeplearning.ai/short-courses/functions-tools-agents-langchain/). This course instructed by the creator of LangChain Harrison Chase as well as Dr.Andrew Ng.
 
 ## Course Description
 The landscape of LLMs and the libraries that support them has evolved rapidly in recent months. This course is designed to keep you ahead of these changes. 
